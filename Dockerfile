@@ -1,1 +1,1 @@
-FROM rawmind/alpine-zk:3.4.10-0
+FROM jenkins/jenkins:2.479-alpine-jdk17
