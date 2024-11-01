@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.479-alpine-jdk17
+FROM jenkins/jenkins:2.483-alpine-jdk17
