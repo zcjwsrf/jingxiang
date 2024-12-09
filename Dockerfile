@@ -1,1 +1,1 @@
-FROM tonistiigi/binfmt:latest
+FROM rancher/mirrored-pause:3.6
