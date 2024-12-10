@@ -1,1 +1,1 @@
-FROM rancher/rancher-webhook:v0.4.13
+FROM rancher/fleet-agent:v0.9.11
