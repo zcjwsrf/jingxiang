@@ -1,1 +1,1 @@
-FROM rancher/fleet-agent:v0.9.4
+FROM rancher/gitjob:v0.9.7
