@@ -1,1 +1,1 @@
-FROM rancher/rke-tools:v0.1.105
+FROM rancher-webhook:v0.4.13
