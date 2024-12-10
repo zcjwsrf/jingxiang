@@ -1,1 +1,1 @@
-FROM rancher/gitjob:v0.9.17
+FROM docker pull rancher/mirrored-cluster-api-controller:v1.4.4
