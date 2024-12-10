@@ -1,1 +1,1 @@
-FROM rancher/fleet:v0.9.4
+FROM rancher/fleet-agent:v0.9.4
