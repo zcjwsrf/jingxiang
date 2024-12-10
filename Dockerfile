@@ -1,1 +1,1 @@
-FROM rancher/mirrored-pause:3.6
+FROM rancher/rke-tools:v0.1.105
