@@ -1,1 +1,1 @@
-FROM rancher/gitjob:v0.9.7
+FROM centos:7-aarch64 --platform=arm64/linux
