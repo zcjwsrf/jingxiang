@@ -1,1 +1,1 @@
-FROM centos:7-aarch64
+FROM arm64v8/centos:7
