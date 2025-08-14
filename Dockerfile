@@ -1,1 +1,1 @@
-FROM yrzr/gitlab-ce-arm64v8:latest
+FROM rancher/hyperkube:v1.25.16-rancher2
